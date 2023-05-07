@@ -22,10 +22,9 @@ python3 rumbot.py -v <video_id> -b <num of bots>
 python3 rumbot.py -v 2jn2zs -b 200
 ```
 ## How to find the video_id 🧑‍🏫
-```
 Rumble does not provide any API or a functionality that allows me 
 to fetch video id using the channel name so you will have to do it this way:
-
+```
 Go to your live livestream
 Click F12 or right click > Inspect
 Click on the network tab and look for the GET request to wn0.rumble.com
