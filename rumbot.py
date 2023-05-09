@@ -104,7 +104,7 @@ if __name__ == "__main__":
 
 # ==========================================
 # Copyright 2023 Ryukudz
-# You expressly understand and agree that Subfinder (creators and contributors) shall not be liable for any damages or losses
+# You expressly understand and agree that "rumbot" lmao... (creators and contributors) shall not be liable for any damages or losses
 # resulting from your use of this tool or third-party products that use it.
 # Creators aren't in charge of any and have/has no responsibility for any kind of:
 # Unlawful or illegal use of the tool.
